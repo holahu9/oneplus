@@ -10,7 +10,7 @@
   - [Licence](#Licence)
   - [Contact](#Contact)
   ## Deployed link 
-  - [deployed link](https://infinite-journey-54832.herokuapp.com/)
+  - [deployed link](https://infinite-journey-54832.herokuapp.com/landingpage.html)
   # Title
   # oneplusone
   ### Licence 
@@ -35,9 +35,9 @@
   # Contact
   ### Questions 
   If you have any questions reachout on 
- https://github.com/ghimirear
+ https://github.com/holahu9
 
   ### E-mail
   For more information bout this project e-main me on: 
-ghimirearjun15@gmail.com
+  jackmol3@gmail.com
 
